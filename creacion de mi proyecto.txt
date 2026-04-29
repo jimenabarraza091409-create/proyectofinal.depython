@@ -1,0 +1,11 @@
+*** creacion de mi carpeta del proyecto***
+
+sigue los siguientes pasos para crear el proyecto final, no importando en que computadora  se encuentre
+
+1. crea la carperta proyecto final software punto de venta jimena nahomi, en documentos va a estar esta carpeta 
+
+2. descarga de tu repositorio el proyectofinal.py y las imagenes credas 
+
+3.realiza los cambios y las actividades de cada leccion 
+
+4.sube a tu repositorio el proyectofinal.py con los cambios realizados 
