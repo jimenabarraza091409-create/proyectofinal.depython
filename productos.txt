@@ -1,0 +1,5 @@
+1|pantalon|200|ropa
+2|blusa|150|ropa
+3|labial|350|cosmeticos
+4|tenis|1600|calzado
+5|bolsa|4000|accesorios
